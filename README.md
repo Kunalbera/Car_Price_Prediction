@@ -6,4 +6,6 @@ fill some required fields like:
 2. Car Model Name
 3. Year of Purchase
 4. Fuel Type of The Car
-5. Total Kilometers Travelled 
+5. Total Kilometers Travelled
+
+After fill all the required fields then click to submit and the model predict the estimate market value of the car
